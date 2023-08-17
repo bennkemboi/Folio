@@ -25,3 +25,4 @@ servicesButtons.forEach((item) => {
     item.classList.add("active");
   });
 });
+getService("frontend");
